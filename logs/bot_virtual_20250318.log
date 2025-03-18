@@ -1,0 +1,263 @@
+2025-03-18 20:15:01 [INFO] bot_virtual (main.py:51): Initializing trading bot in virtual mode using bybit exchange
+2025-03-18 20:15:01 [INFO] bot_virtual (main.py:125): Database initialized: sqlite
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:150): Exchange initialized: bybit (testnet: True)
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:176): Technical analyzer initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:189): Sentiment analyzer initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:202): Volume analyzer initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:215): Correlation analyzer initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:228): Volatility analyzer initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:248): Strategy selector initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:268): Risk manager initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:285): Take profit manager initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:305): Learning manager initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:331): Telegram notifier initialized in logging-only mode
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:355): Discord notifier initialized
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:75): Trading bot initialization complete
+2025-03-18 20:15:02 [INFO] bot_virtual (main.py:365): Starting trading bot
+2025-03-18 20:15:14 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:25 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:30 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:36 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:41 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:15:58 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:03 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:09 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:14 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:25 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:30 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:36 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:41 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:16:57 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:03 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:08 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:13 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:24 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:29 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:35 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:40 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:46 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:17:57 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:02 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:08 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:13 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:24 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:30 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:35 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:41 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:46 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:18:57 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:03 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:08 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:14 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:20 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:25 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:31 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:36 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:42 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:53 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:19:58 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:04 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:09 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:14 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:20 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:25 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:31 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:36 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:42 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:53 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:20:58 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:04 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:09 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:15 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:20 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:26 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:31 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:36 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:42 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:53 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:21:58 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:22:03 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'SentimentAnalyzer' object has no attribute 'get_sentiment_score'
+2025-03-18 20:22:09 [INFO] bot_virtual (main.py:374): Bot stopped by user
+2025-03-18 20:22:09 [INFO] bot_virtual (main.py:731): Stopping trading bot
+2025-03-18 20:22:09 [INFO] bot_virtual (main.py:768): Closed Exchange connection
+2025-03-18 20:22:09 [INFO] bot_virtual (main.py:768): Closed Database connection
+2025-03-18 20:22:09 [INFO] bot_virtual (main.py:768): Closed Telegram connection
+2025-03-18 20:22:09 [INFO] bot_virtual (main.py:768): Closed Discord connection
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:51): Initializing trading bot in virtual mode using bybit exchange
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:125): Database initialized: sqlite
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:150): Exchange initialized: bybit (testnet: True)
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:176): Technical analyzer initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:189): Sentiment analyzer initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:202): Volume analyzer initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:215): Correlation analyzer initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:228): Volatility analyzer initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:248): Strategy selector initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:268): Risk manager initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:285): Take profit manager initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:305): Learning manager initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:331): Telegram notifier initialized in logging-only mode
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:355): Discord notifier initialized
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:75): Trading bot initialization complete
+2025-03-18 20:22:21 [INFO] bot_virtual (main.py:365): Starting trading bot
+2025-03-18 20:22:37 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:22:43 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:22:48 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:22:53 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:22:59 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:04 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:10 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:15 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:21 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:26 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:32 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:38 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:43 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:49 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:23:54 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:00 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:05 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:16 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:21 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:27 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:33 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:38 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:44 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:49 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:24:55 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:25:00 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:25:06 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:25:11 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:25:17 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:25:22 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:25:28 [INFO] bot_virtual (main.py:374): Bot stopped by user
+2025-03-18 20:25:28 [INFO] bot_virtual (main.py:731): Stopping trading bot
+2025-03-18 20:25:28 [INFO] bot_virtual (main.py:768): Closed Exchange connection
+2025-03-18 20:25:28 [INFO] bot_virtual (main.py:768): Closed Database connection
+2025-03-18 20:25:28 [INFO] bot_virtual (main.py:768): Closed Telegram connection
+2025-03-18 20:25:28 [INFO] bot_virtual (main.py:768): Closed Discord connection
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:51): Initializing trading bot in virtual mode using bybit exchange
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:125): Database initialized: sqlite
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:150): Exchange initialized: bybit (testnet: True)
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:176): Technical analyzer initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:189): Sentiment analyzer initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:202): Volume analyzer initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:215): Correlation analyzer initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:228): Volatility analyzer initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:248): Strategy selector initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:268): Risk manager initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:285): Take profit manager initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:305): Learning manager initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:331): Telegram notifier initialized in logging-only mode
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:355): Discord notifier initialized
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:75): Trading bot initialization complete
+2025-03-18 20:25:39 [INFO] bot_virtual (main.py:365): Starting trading bot
+2025-03-18 20:25:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:25:58 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:03 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:13 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:18 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:23 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:29 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:34 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:40 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:45 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:51 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:26:56 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:02 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:07 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:13 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:24 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:29 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:40 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:46 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:27:57 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:02 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:08 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:13 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:25 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:30 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:35 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:41 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:46 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:28:57 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:03 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:08 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:14 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:24 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:30 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:35 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:41 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:46 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:51 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:29:57 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:02 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:08 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'float' object has no attribute 'get'
+2025-03-18 20:30:14 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:24 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:30 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:35 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:41 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:30:57 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:03 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'float' object has no attribute 'get'
+2025-03-18 20:31:09 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:14 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:19 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:25 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:30 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:36 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'float' object has no attribute 'get'
+2025-03-18 20:31:42 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:52 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:31:58 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:04 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:15 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:20 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:26 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:31 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:36 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:42 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:47 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:53 [ERROR] bot_virtual (main.py:493): Error selecting strategy: unhashable type: 'dict'
+2025-03-18 20:32:54 [INFO] bot_virtual (main.py:374): Bot stopped by user
+2025-03-18 20:32:54 [INFO] bot_virtual (main.py:731): Stopping trading bot
+2025-03-18 20:32:55 [INFO] bot_virtual (main.py:768): Closed Exchange connection
+2025-03-18 20:32:55 [INFO] bot_virtual (main.py:768): Closed Database connection
+2025-03-18 20:32:55 [INFO] bot_virtual (main.py:768): Closed Telegram connection
+2025-03-18 20:32:55 [INFO] bot_virtual (main.py:768): Closed Discord connection
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:51): Initializing trading bot in virtual mode using bybit exchange
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:125): Database initialized: sqlite
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:150): Exchange initialized: bybit (testnet: True)
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:176): Technical analyzer initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:189): Sentiment analyzer initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:202): Volume analyzer initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:215): Correlation analyzer initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:228): Volatility analyzer initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:248): Strategy selector initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:268): Risk manager initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:285): Take profit manager initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:305): Learning manager initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:331): Telegram notifier initialized in logging-only mode
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:355): Discord notifier initialized
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:75): Trading bot initialization complete
+2025-03-18 20:33:10 [INFO] bot_virtual (main.py:365): Starting trading bot
+2025-03-18 20:40:55 [ERROR] bot_virtual (main.py:493): Error selecting strategy: 'float' object has no attribute 'get'
